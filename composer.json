@@ -1,1 +1,2 @@
-{ "require": { "hhvm": "*" } }
+{ "require": { "hhvm": "*" ,
+    "php": "7.4.15"} }
